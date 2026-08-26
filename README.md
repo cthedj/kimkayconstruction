@@ -15,6 +15,6 @@ A responsive multi-page website mock-up for KimKay Construction, Cape Town.
 - The site is intentionally static so it can be hosted directly on GitHub Pages.
 
 ## Preview
-GitHub Pages is enabled and deployment is handled by the workflow in `.github/workflows/pages.yml`.
+GitHub Pages should be configured to **Deploy from a branch** using the `main` branch and `/ (root)` folder.
 
 `https://cthedj.github.io/kimkayconstruction/`
